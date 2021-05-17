@@ -1,0 +1,14 @@
+.conteúdo {
+text-align: center;
+}
+
+.Twitch, .Linkedin, .Github {
+
+    width:50%; height: 55px;
+    border-color: black;border-style: groove;
+    cursor: pointer;
+}
+
+.imagem {
+    border-radius: 75px;
+}
